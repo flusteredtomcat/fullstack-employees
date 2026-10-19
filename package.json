@@ -16,8 +16,9 @@
     "#*": "./*.js"
   },
   "dependencies": {
+    "db": "^6.0.3",
     "express": "^5.1.0",
-    "pg": "^8.14.1"
+    "pg": "^8.23.1"
   },
   "devDependencies": {
     "supertest": "^7.1.0",
